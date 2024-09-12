@@ -22,7 +22,7 @@ Distribution of samples across different classes in the dataset. The dataset was
 | **Floor**   |          |          |         |  290      |
 | **Other**   |          |          |         |  1239     |
 
-The dataset can be downloaded with this link: [Nextcloud]{https://cloud.cs.uni-tuebingen.de/index.php/s/p3tw3EqE9csXoRn}
+The dataset can be downloaded with this link: [Nextcloud](https://cloud.cs.uni-tuebingen.de/index.php/s/p3tw3EqE9csXoRn)
 
 The orginal recordings are saved in the *raw_sounds* and the extracted 15ms long dataset samples are saved in *sounds*
 
