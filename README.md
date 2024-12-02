@@ -2,6 +2,13 @@
 
 We introduct **TT sounds**, a table tennis racket-ball bounce dataset. 
 
+It is used in "Spin Detection using Racket Bounce Sounds in Table tennis" [https://arxiv.org/pdf/2409.11760v1](https://arxiv.org/pdf/2409.11760v1).
+
+## Reproducing results
+All the results from the paper can be reproducted with the code in source. 
+
+The dataset needs to be downloaded and put into a data/ directory here.
+
 ## Dataset
 Distribution of samples across different classes in the dataset. The dataset was subsequently divided into training and testing subsets with an 80/20 split ratio.
 
